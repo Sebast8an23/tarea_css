@@ -1,3 +1,22 @@
+body 
+{
+    background-image: url('https://www.solofondos.com/wp-content/uploads/2015/11/fondos-para-paginas-web-profesionales-grandes.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #ffffff;
+}
+p 
+{
+
+    font-size: 18px;
+}
+h2 
+{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px ;
+    text-align: center;
+}
 .caja1
 {
 	background-color: rgba(0, 0, 0, .5);
@@ -9,18 +28,22 @@
 	border-radius: 1em;
 	color: #ffffff;
 }
-body {
-    background-image: url('https://www.solofondos.com/wp-content/uploads/2015/11/fondos-para-paginas-web-profesionales-grandes.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-	color: #ffffff;
+.caja2
+{
+    background-color: rgb(0, 0, 0, .5);
+    width: 20em;
+    height: auto;
+    margin: auto;
+    padding: 2em;
+    border-radius: 2em;
+    float: right;
 }
-p {
+img
+{
+    border-radius: 2em;
+}
+.letra
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
-}
-h2 {
-    font-family: verdana;
-    font-size: 50px ;
-    text-align: center;
 }
