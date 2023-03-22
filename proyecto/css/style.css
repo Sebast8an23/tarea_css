@@ -41,6 +41,9 @@ h2
 img
 {
     border-radius: 2em;
+    border-style: groove;
+    border-width: 1em;
+    border-color: rgb(88, 19, 153) ;
 }
 .letra
 {
